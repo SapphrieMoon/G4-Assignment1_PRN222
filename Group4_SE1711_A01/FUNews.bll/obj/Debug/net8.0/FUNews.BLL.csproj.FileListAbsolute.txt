@@ -1,0 +1,15 @@
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\bin\Debug\net8.0\FUNews.BLL.deps.json
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\bin\Debug\net8.0\FUNews.BLL.dll
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\bin\Debug\net8.0\FUNews.BLL.pdb
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\bin\Debug\net8.0\FUNews.DAL.dll
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\bin\Debug\net8.0\FUNews.DAL.pdb
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\obj\Debug\net8.0\FUNews.BLL.csproj.AssemblyReference.cache
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\obj\Debug\net8.0\FUNews.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\obj\Debug\net8.0\FUNews.BLL.AssemblyInfoInputs.cache
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\obj\Debug\net8.0\FUNews.BLL.AssemblyInfo.cs
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\obj\Debug\net8.0\FUNews.BLL.csproj.CoreCompileInputs.cache
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\obj\Debug\net8.0\FUNews.BLL.csproj.Up2Date
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\obj\Debug\net8.0\FUNews.BLL.dll
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\obj\Debug\net8.0\refint\FUNews.BLL.dll
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\obj\Debug\net8.0\FUNews.BLL.pdb
+D:\FPTU\Subjects\Summer 2025\PRN222\Project\Assignment1\Group4_SE1711_A01\FUNews.bll\obj\Debug\net8.0\ref\FUNews.BLL.dll
