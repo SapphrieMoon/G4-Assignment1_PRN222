@@ -55,6 +55,7 @@ namespace Group4_SE1711_A01
 
             // Thêm MVC service
             builder.Services.AddControllersWithViews();
+            builder.Services.AddSession(); // Thêm Session service
 
             var app = builder.Build();
 
@@ -69,13 +70,13 @@ namespace Group4_SE1711_A01
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseSession(); //êm middleware cho Session
             app.UseAuthorization();
 
             // Định tuyến mặc định
             app.MapControllerRoute(
                 name: "default",
-                pattern: "{controller=Home}/{action=Index}/{id?}");
+                pattern: "{controller=Login}/{action=Index}/{id?}");
 
             app.Run();
         }
